@@ -1,0 +1,11 @@
+{
+  "Flex": 7,
+  "TextBox": 30,
+  "Div": 24,
+  "Button": 12,
+  "Overlay": 2,
+  "Icon": 4,
+  "Image": 11,
+  "Checkbox": 1,
+  "Form": 2
+}
